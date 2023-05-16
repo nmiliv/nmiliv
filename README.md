@@ -1,6 +1,6 @@
 Hi, I’m @nmiliv <br>
 
-Currently working with @gunnaero on rocket stuff, might do other stuff later
+Used to work with @gunnaero on rocket stuff, might do other stuff later (such as more rockets)
 
 <!---
 nmiliv/nmiliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
